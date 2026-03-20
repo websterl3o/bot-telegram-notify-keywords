@@ -1,0 +1,77 @@
+[
+    {
+        "id": "a1b2c3d4-0001-0001-0001-000000000001",
+        "keywords": [
+            "memoria",
+            "ram"
+        ],
+        "created_at": "2024-06-01T12:00:00",
+        "updated_at": "2024-06-01T12:00:00",
+        "notification_count": 0,
+        "related_messages": []
+    },
+    {
+        "id": "a1b2c3d4-0002-0002-0002-000000000002",
+        "keywords": [
+            "processador",
+            "cpu"
+        ],
+        "created_at": "2024-06-01T12:00:00",
+        "updated_at": "2024-06-01T12:00:00",
+        "notification_count": 0,
+        "related_messages": []
+    },
+    {
+        "id": "a1b2c3d4-0003-0003-0003-000000000003",
+        "keywords": [
+            "placa de video",
+            "gpu"
+        ],
+        "created_at": "2024-06-01T12:00:00",
+        "updated_at": "2024-06-01T12:00:00",
+        "notification_count": 0,
+        "related_messages": []
+    },
+    {
+        "id": "a1b2c3d4-0004-0004-0004-000000000004",
+        "keywords": [
+            "ssd"
+        ],
+        "created_at": "2024-06-01T12:00:00",
+        "updated_at": "2024-06-01T12:00:00",
+        "notification_count": 0,
+        "related_messages": []
+    },
+    {
+        "id": "a1b2c3d4-0005-0005-0005-000000000005",
+        "keywords": [
+            "hd"
+        ],
+        "created_at": "2024-06-01T12:00:00",
+        "updated_at": "2024-06-01T12:00:00",
+        "notification_count": 0,
+        "related_messages": []
+    },
+    {
+        "id": "b2621ce4-6653-4843-bbaa-c366797767ec",
+        "keywords": [
+            "carros 2"
+        ],
+        "created_at": "2026-03-20T17:32:00.038700",
+        "updated_at": "2026-03-20T17:32:00.038700",
+        "notification_count": 0,
+        "related_messages": []
+    },
+    {
+        "id": "4d9c3c67-229c-488e-bec6-e67496df80e3",
+        "keywords": [
+            "carros",
+            "2",
+            "disney"
+        ],
+        "created_at": "2026-03-20T17:32:19.533039",
+        "updated_at": "2026-03-20T17:32:19.533039",
+        "notification_count": 0,
+        "related_messages": []
+    }
+]
